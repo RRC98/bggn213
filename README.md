@@ -1,2 +1,2 @@
 # bggn213
-repository for BGGN 213
+Bioinformatics class Winter 2022 at UCSD.
